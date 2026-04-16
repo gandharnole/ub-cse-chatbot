@@ -1,0 +1,3127 @@
+{
+  "courses": [
+    {
+      "code": "CSE 501",
+      "number": "501",
+      "title": "Theory is required. One 'Breadth' class chosen from three of",
+      "prereqs": [],
+      "credits": 1,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-tracks.html"
+    },
+    {
+      "code": "CSE 573",
+      "number": "573",
+      "title": "Theory is required. One 'Breadth' class chosen from three of",
+      "prereqs": [
+        "CSE 587"
+      ],
+      "credits": 3,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-tracks.html"
+    },
+    {
+      "code": "CSE 521",
+      "number": "521",
+      "title": "Theory is required. One 'Breadth' class chosen from three of",
+      "prereqs": [
+        "CSE 524"
+      ],
+      "credits": 3,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-tracks.html"
+    },
+    {
+      "code": "CSE 531",
+      "number": "531",
+      "title": "Theory is required. One 'Breadth' class chosen from three of",
+      "prereqs": [
+        "CSE 556"
+      ],
+      "credits": 2,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-tracks.html"
+    },
+    {
+      "code": "CSE 574",
+      "number": "574",
+      "title": "Theory is required. One 'Breadth' class chosen from three of",
+      "prereqs": [
+        "CSE 587"
+      ],
+      "credits": 3,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-tracks.html"
+    },
+    {
+      "code": "CSE 565",
+      "number": "565",
+      "title": "Theory is required. One 'Breadth' class chosen from three of",
+      "prereqs": [],
+      "credits": 5,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-tracks.html"
+    },
+    {
+      "code": "CSE 676",
+      "number": "676",
+      "title": "Theory is required. One 'Breadth' class chosen from three of",
+      "prereqs": [
+        "CSE 526"
+      ],
+      "credits": 3,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-tracks.html"
+    },
+    {
+      "code": "CSE 560",
+      "number": "560",
+      "title": "Theory is required. One 'Breadth' class chosen from three of",
+      "prereqs": [],
+      "credits": 3,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-tracks.html"
+    },
+    {
+      "code": "CSE 505",
+      "number": "505",
+      "title": "Theory is required. One 'Breadth' class chosen from three of",
+      "prereqs": [
+        "CSE 524"
+      ],
+      "credits": 9,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-tracks.html"
+    },
+    {
+      "code": "CSE 586",
+      "number": "586",
+      "title": "Theory is required. One 'Breadth' class chosen from three of",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-tracks.html"
+    },
+    {
+      "code": "CSE 611",
+      "number": "611",
+      "title": "Theory is required. One 'Breadth' class chosen from three of",
+      "prereqs": [],
+      "credits": 9,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-tracks.html"
+    },
+    {
+      "code": "CSE 666",
+      "number": "666",
+      "title": "Theory is required. One 'Breadth' class chosen from three of",
+      "prereqs": [
+        "CSE 605"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-tracks.html"
+    },
+    {
+      "code": "CSE 562",
+      "number": "562",
+      "title": "Theory is required. One 'Breadth' class chosen from three of",
+      "prereqs": [
+        "CSE 524"
+      ],
+      "credits": 3,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-tracks.html"
+    },
+    {
+      "code": "CSE 590",
+      "number": "590",
+      "title": "Theory is required. One 'Breadth' class chosen from three of",
+      "prereqs": [
+        "CSE 556"
+      ],
+      "credits": 3,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-tracks.html"
+    },
+    {
+      "code": "CSE 589",
+      "number": "589",
+      "title": "Theory is required. One 'Breadth' class chosen from three of",
+      "prereqs": [
+        "CSE 566"
+      ],
+      "credits": 3,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-tracks.html"
+    },
+    {
+      "code": "CSE 410",
+      "number": "410",
+      "title": "Time and Embedded Operating Systems (Fall 2023) CSE 406—Block",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hu-hongxin.detail.teaching.html"
+    },
+    {
+      "code": "CSE 465",
+      "number": "465",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hu-hongxin.detail.teaching.html"
+    },
+    {
+      "code": "CSE 489",
+      "number": "489",
+      "title": "CSE 116, CSE 241, CSE 250, CSE 462 Organization of program co",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hu-hongxin.detail.teaching.html"
+    },
+    {
+      "code": "CSE 510",
+      "number": "510",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hu-hongxin.detail.teaching.html"
+    },
+    {
+      "code": "CSE 610",
+      "number": "610",
+      "title": "Director Center for Information Integrity Director Institute",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hu-hongxin.detail.teaching.html"
+    },
+    {
+      "code": "CSE 702",
+      "number": "702",
+      "title": "Department Chair: (716) 645-4730, Faculty Office: (716) 645-1",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hu-hongxin.detail.teaching.html"
+    },
+    {
+      "code": "CSE 704",
+      "number": "704",
+      "title": "Scale Distributed Systems Bina Ramamurthy CSE 589 Modern Netw",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hu-hongxin.detail.teaching.html"
+    },
+    {
+      "code": "CSE 115",
+      "number": "115",
+      "title": "Onion Studio “Here, there are different career opportunities,",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/admissions/faq.html"
+    },
+    {
+      "code": "CSE 241",
+      "number": "241",
+      "title": "Ken Smith The department offers a combined program leading to",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/admissions/faq.html"
+    },
+    {
+      "code": "CSE 250",
+      "number": "250",
+      "title": "You cannot receive internship academic credit for internships",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/admissions/faq.html"
+    },
+    {
+      "code": "CSE 191",
+      "number": "191",
+      "title": "Ken Smith The department offers a combined program leading to",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/admissions/faq.html"
+    },
+    {
+      "code": "CSE 473",
+      "number": "473",
+      "title": "Department Chair: (716) 645-4730, Faculty Office: (716) 645-1",
+      "prereqs": [],
+      "credits": 3,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/yuan-junsong.detail.teaching.html"
+    },
+    {
+      "code": "CSE 703",
+      "number": "703",
+      "title": "Majors (Spring 2026, Spring 2025, Spring 2024, Spring 2023) C",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/yuan-junsong.detail.teaching.html"
+    },
+    {
+      "code": "CSE 710",
+      "number": "710",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/yuan-junsong.detail.teaching.html"
+    },
+    {
+      "code": "CSE 486",
+      "number": "486",
+      "title": "Time and Embedded Operating Systems (Fall 2023) CSE 406—Block",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/lu-haonan.detail.teaching.html"
+    },
+    {
+      "code": "CSE 706",
+      "number": "706",
+      "title": "Scale Distributed Systems Bina Ramamurthy CSE 589 Modern Netw",
+      "prereqs": [],
+      "credits": 3,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/lu-haonan.detail.teaching.html"
+    },
+    {
+      "code": "CSE 331",
+      "number": "331",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hayes-tom.detail.teaching.html"
+    },
+    {
+      "code": "CSE 429",
+      "number": "429",
+      "title": "Algorithms for Modern Computing Systems, 2013.",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hayes-tom.detail.teaching.html"
+    },
+    {
+      "code": "CSE 431",
+      "number": "431",
+      "title": "CSE 116, CSE 241, CSE 250, CSE 462 Organization of program co",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hayes-tom.detail.teaching.html"
+    },
+    {
+      "code": "CSE 701",
+      "number": "701",
+      "title": "Scale Distributed Systems Bina Ramamurthy CSE 589 Modern Netw",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hayes-tom.detail.teaching.html"
+    },
+    {
+      "code": "CSE 421",
+      "number": "421",
+      "title": "Onion Studio “Here, there are different career opportunities,",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/about-us/faces-voices.host.html/content/shared/engineering/computer-science-engineering/profiles/faces-and-voices/di-tacchio-luigi.detail.html"
+    },
+    {
+      "code": "CSE 487",
+      "number": "487",
+      "title": "Onion Studio “Here, there are different career opportunities,",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/about-us/faces-voices.host.html/content/shared/engineering/computer-science-engineering/profiles/faces-and-voices/di-tacchio-luigi.detail.html"
+    },
+    {
+      "code": "CSE 341",
+      "number": "341",
+      "title": "CSE 116, CSE 241, CSE 250, CSE 462 Organization of program co",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/xu-wenyao.detail.teaching.html"
+    },
+    {
+      "code": "CSE 490",
+      "number": "490",
+      "title": "All work submitted for CSE 490/590 must be your own and must",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/xu-wenyao.detail.teaching.html"
+    },
+    {
+      "code": "CSE 709",
+      "number": "709",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/xu-wenyao.detail.teaching.html"
+    },
+    {
+      "code": "CSE 712",
+      "number": "712",
+      "title": "Grid Computing, 1998-2006.",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/xu-wenyao.detail.teaching.html"
+    },
+    {
+      "code": "CSE 715",
+      "number": "715",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/xu-wenyao.detail.teaching.html"
+    },
+    {
+      "code": "CSE 116",
+      "number": "116",
+      "title": "Ken Smith The department offers a combined program leading to",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/dickson-paul.detail.teaching.html"
+    },
+    {
+      "code": "CSE 420",
+      "number": "420",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/dickson-paul.detail.teaching.html"
+    },
+    {
+      "code": "CSE 496",
+      "number": "496",
+      "title": "Op Application Form . B. International Students — Complete In",
+      "prereqs": [],
+      "credits": 8,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/information-for-students/experiential-learning/internships.html"
+    },
+    {
+      "code": "CSE 598",
+      "number": "598",
+      "title": "Op Application Form . B. International Students — Complete In",
+      "prereqs": [],
+      "credits": 8,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/information-for-students/experiential-learning/internships.html"
+    },
+    {
+      "code": "CSE 700",
+      "number": "700",
+      "title": "Op Application Form . B. International Students — Complete In",
+      "prereqs": [],
+      "credits": 6,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/information-for-students/experiential-learning/internships.html"
+    },
+    {
+      "code": "CSE 705",
+      "number": "705",
+      "title": "Scale Distributed Systems Bina Ramamurthy CSE 589 Modern Netw",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/ji-kaiyi.detail.teaching.html"
+    },
+    {
+      "code": "CSE 435",
+      "number": "435",
+      "title": "Draft Syllabus",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/srihari-rohini.detail.teaching.html"
+    },
+    {
+      "code": "CSE 535",
+      "number": "535",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [
+        "CSE 524"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/srihari-rohini.detail.teaching.html"
+    },
+    {
+      "code": "CSE 635",
+      "number": "635",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [
+        "CSE 524"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/srihari-rohini.detail.teaching.html"
+    },
+    {
+      "code": "CSE 713",
+      "number": "713",
+      "title": "Topics in Computer System Security offered in spring 2000.",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/srihari-rohini.detail.teaching.html"
+    },
+    {
+      "code": "CSE 493",
+      "number": "493",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/sridhar-ramalingam.detail.teaching.html"
+    },
+    {
+      "code": "CSE 593",
+      "number": "593",
+      "title": "Scale Distributed Systems Bina Ramamurthy CSE 589 Modern Netw",
+      "prereqs": [
+        "CSE 566"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/sridhar-ramalingam.detail.teaching.html"
+    },
+    {
+      "code": "CSE 111",
+      "number": "111",
+      "title": "Director of Graduate Studies Department of Computer Science a",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/schindler-kris.detail.teaching.html"
+    },
+    {
+      "code": "CSE 379",
+      "number": "379",
+      "title": "Introduction to Microprocessors. Entirely in ARM Assembly",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/schindler-kris.detail.teaching.html"
+    },
+    {
+      "code": "CSE 450",
+      "number": "450",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/schindler-kris.detail.teaching.html"
+    },
+    {
+      "code": "CSE 453",
+      "number": "453",
+      "title": "Ken Smith Brett Kolodny (CS BA candidate) and Angus Lam (CS B",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/schindler-kris.detail.teaching.html"
+    },
+    {
+      "code": "CSE 474",
+      "number": "474",
+      "title": "Majors (Spring 2026, Spring 2025, Spring 2024, Spring 2023) C",
+      "prereqs": [
+        "CSE 587"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/chen-changyou.detail.teaching.html"
+    },
+    {
+      "code": "CSE 674",
+      "number": "674",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [
+        "CSE 587"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/chen-changyou.detail.teaching.html"
+    },
+    {
+      "code": "CSE 396",
+      "number": "396",
+      "title": "CSE 116, CSE 241, CSE 250, CSE 462 Organization of program co",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/guo-xiangyu.detail.teaching.html"
+    },
+    {
+      "code": "CSE 220",
+      "number": "220",
+      "title": "Ken Smith The department offers a combined program leading to",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/undergraduate/degrees-and-programs/bs-ms-in-computer-science-and-engineering.html"
+    },
+    {
+      "code": "CSE 305",
+      "number": "305",
+      "title": "CSE 116, CSE 241, CSE 250, CSE 462 Organization of program co",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hirsch-andrew.detail.teaching.html"
+    },
+    {
+      "code": "CSE 413",
+      "number": "413",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hirsch-andrew.detail.teaching.html"
+    },
+    {
+      "code": "CSE 513",
+      "number": "513",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hirsch-andrew.detail.teaching.html"
+    },
+    {
+      "code": "CSE 707",
+      "number": "707",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/upadhyaya-shambhu.detail.teaching.html"
+    },
+    {
+      "code": "CSE 199",
+      "number": "199",
+      "title": "Department Chair: (716) 645-4730, Faculty Office: (716) 645-1",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/zhao-zhuoyue.detail.teaching.html"
+    },
+    {
+      "code": "CSE 302",
+      "number": "302",
+      "title": "Director of Undergraduate Studies Department of Computer Scie",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/zhao-zhuoyue.detail.teaching.html"
+    },
+    {
+      "code": "CSE 303",
+      "number": "303",
+      "title": "Director of Undergraduate Studies Department of Computer Scie",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/zhao-zhuoyue.detail.teaching.html"
+    },
+    {
+      "code": "CSE 350",
+      "number": "350",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/zhao-zhuoyue.detail.teaching.html"
+    },
+    {
+      "code": "CSE 402",
+      "number": "402",
+      "title": "Director of Undergraduate Studies Department of Computer Scie",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/zhao-zhuoyue.detail.teaching.html"
+    },
+    {
+      "code": "CSE 462",
+      "number": "462",
+      "title": "CSE 116, CSE 241, CSE 250, CSE 462 Organization of program co",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/zhao-zhuoyue.detail.teaching.html"
+    },
+    {
+      "code": "CSE 662",
+      "number": "662",
+      "title": "CSE 442/542: Software Engineering CSE 462/562: Database Syste",
+      "prereqs": [
+        "CSE 524"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/zhao-zhuoyue.detail.teaching.html"
+    },
+    {
+      "code": "CSE 443",
+      "number": "443",
+      "title": "CSE 116, CSE 241, CSE 250, CSE 462 Organization of program co",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/undergraduate/academic-advisement/graduate-school.html"
+    },
+    {
+      "code": "CSE 192",
+      "number": "192",
+      "title": "CSE 116, CSE 241, CSE 250, CSE 462 Organization of program co",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/undergraduate/academic-advisement/graduate-school.html"
+    },
+    {
+      "code": "CSE 451",
+      "number": "451",
+      "title": "CSE 116, CSE 241, CSE 250, CSE 462 Organization of program co",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/undergraduate/academic-advisement/graduate-school.html"
+    },
+    {
+      "code": "CSE 437",
+      "number": "437",
+      "title": "CSE 116, CSE 241, CSE 250, CSE 462 Organization of program co",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/undergraduate/academic-advisement/graduate-school.html"
+    },
+    {
+      "code": "CSE 438",
+      "number": "438",
+      "title": "CSE 116, CSE 241, CSE 250, CSE 462 Organization of program co",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/undergraduate/academic-advisement/graduate-school.html"
+    },
+    {
+      "code": "CSE 472",
+      "number": "472",
+      "title": "CSE 116, CSE 241, CSE 250, CSE 462 Organization of program co",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/undergraduate/academic-advisement/graduate-school.html"
+    },
+    {
+      "code": "CSE 480",
+      "number": "480",
+      "title": "CSE 116, CSE 241, CSE 250, CSE 462 Organization of program co",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/undergraduate/academic-advisement/graduate-school.html"
+    },
+    {
+      "code": "CSE 439",
+      "number": "439",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/regan-ken.detail.teaching.html"
+    },
+    {
+      "code": "CSE 491",
+      "number": "491",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/regan-ken.detail.teaching.html"
+    },
+    {
+      "code": "CSE 596",
+      "number": "596",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [
+        "CSE 556"
+      ],
+      "credits": 2,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/regan-ken.detail.teaching.html"
+    },
+    {
+      "code": "CSE 101",
+      "number": "101",
+      "title": "Onion Studio “I'm amazed by what I was able to do in CSE's st",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/about-us/faces-voices.host.html/content/shared/engineering/computer-science-engineering/profiles/faces-and-voices/droste-james.detail.html"
+    },
+    {
+      "code": "CSE 546",
+      "number": "546",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [],
+      "credits": 2,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 555",
+      "number": "555",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [
+        "CSE 587"
+      ],
+      "credits": 2,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 518",
+      "number": "518",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 569",
+      "number": "569",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 664",
+      "number": "664",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [
+        "CSE 524"
+      ],
+      "credits": 5,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 673",
+      "number": "673",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [
+        "CSE 526"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 587",
+      "number": "587",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [],
+      "credits": 3,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 633",
+      "number": "633",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [
+        "CSE 556"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 547",
+      "number": "547",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [
+        "CSE 566"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 568",
+      "number": "568",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [],
+      "credits": 2,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 668",
+      "number": "668",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [
+        "CSE 587"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 529",
+      "number": "529",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [
+        "CSE 556"
+      ],
+      "credits": 2,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 548",
+      "number": "548",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 577",
+      "number": "577",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 605",
+      "number": "605",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [
+        "CSE 524"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 500",
+      "number": "500",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [
+        "CSE 545"
+      ],
+      "credits": 3,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 502",
+      "number": "502",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 503",
+      "number": "503",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 504",
+      "number": "504",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 508",
+      "number": "508",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 542",
+      "number": "542",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 544",
+      "number": "544",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 578",
+      "number": "578",
+      "title": "Ken Smith. As the field of computer science evolves, our depa",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/ms-in-computer-science-and-engineering/ms-specializations.html"
+    },
+    {
+      "code": "CSE 498",
+      "number": "498",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/undergraduate/experiential-learning/undergraduate-research.html"
+    },
+    {
+      "code": "CSE 499",
+      "number": "499",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/undergraduate/experiential-learning/undergraduate-research.html"
+    },
+    {
+      "code": "CSE 440",
+      "number": "440",
+      "title": "Majors (Spring 2026, Spring 2025, Spring 2024, Spring 2023) C",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/ai-society/profiles/faculty/joseph-kenneth.detail.teaching.html"
+    },
+    {
+      "code": "CSE 441",
+      "number": "441",
+      "title": "Majors (Spring 2026, Spring 2025, Spring 2024, Spring 2023) C",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/ai-society/profiles/faculty/joseph-kenneth.detail.teaching.html"
+    },
+    {
+      "code": "CSE 540",
+      "number": "540",
+      "title": "Majors (Spring 2026, Spring 2025, Spring 2024, Spring 2023) C",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/ai-society/profiles/faculty/joseph-kenneth.detail.teaching.html"
+    },
+    {
+      "code": "CSE 312",
+      "number": "312",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/hartloff-jesse.detail.teaching.html"
+    },
+    {
+      "code": "CSE 442",
+      "number": "442",
+      "title": "Director of Undergraduate Studies Department of Computer Scie",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/hartloff-jesse.detail.teaching.html"
+    },
+    {
+      "code": "CSE 306",
+      "number": "306",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/alphonce-carl.detail.teaching.html"
+    },
+    {
+      "code": "CSE 368",
+      "number": "368",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/das-sreyasee-bhattacharjee.detail.teaching.html"
+    },
+    {
+      "code": "CSE 455",
+      "number": "455",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/das-sreyasee-bhattacharjee.detail.teaching.html"
+    },
+    {
+      "code": "CSE 460",
+      "number": "460",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/das-sreyasee-bhattacharjee.detail.teaching.html"
+    },
+    {
+      "code": "CSE 469",
+      "number": "469",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/akhter-nasrin.detail.teaching.html"
+    },
+    {
+      "code": "CSE 404",
+      "number": "404",
+      "title": "Director of Undergraduate Studies Department of Computer Scie",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/hertz-matthew.detail.teaching.html"
+    },
+    {
+      "code": "CSE 566",
+      "number": "566",
+      "title": "MTH 535: Introduction to Cryptography or CSE 664: Applied Cry",
+      "prereqs": [],
+      "credits": 5,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/advanced-certificate-in-cybersecurity.html"
+    },
+    {
+      "code": "CSE 512",
+      "number": "512",
+      "title": "Operating Systems Internals",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/advanced-certificate-in-cybersecurity.html"
+    },
+    {
+      "code": "CSE 671",
+      "number": "671",
+      "title": "Secure Wireless Sensor Networks",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs/advanced-certificate-in-cybersecurity.html"
+    },
+    {
+      "code": "CSE 468",
+      "number": "468",
+      "title": "Robotics Algorithms",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/dantu-karthik.detail.teaching.html"
+    },
+    {
+      "code": "CSE 365",
+      "number": "365",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/hunt-alan.detail.teaching.html"
+    },
+    {
+      "code": "CSE 370",
+      "number": "370",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/hunt-alan.detail.teaching.html"
+    },
+    {
+      "code": "CSE 646",
+      "number": "646",
+      "title": "CSE 646 Wireless Networking and Mobile Computing",
+      "prereqs": [
+        "CSE 566"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/ayyalasomayajula-roshan.detail.teaching.html"
+    },
+    {
+      "code": "CSE 711",
+      "number": "711",
+      "title": "CSE 711: Topics in Programming Languages",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/ayyalasomayajula-roshan.detail.teaching.html"
+    },
+    {
+      "code": "CSE 411",
+      "number": "411",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/imran-asif.detail.teaching.html"
+    },
+    {
+      "code": "CSE 570",
+      "number": "570",
+      "title": "Scale Distributed Systems Bina Ramamurthy CSE 589 Modern Netw",
+      "prereqs": [
+        "CSE 524"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/courses/course-descriptions.html"
+    },
+    {
+      "code": "CSE 708",
+      "number": "708",
+      "title": "Scale Distributed Systems Bina Ramamurthy CSE 589 Modern Netw",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/courses/course-descriptions.html"
+    },
+    {
+      "code": "CSE 740",
+      "number": "740",
+      "title": "Scale Distributed Systems Bina Ramamurthy CSE 589 Modern Netw",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/graduate/courses/course-descriptions.html"
+    },
+    {
+      "code": "CSE 467",
+      "number": "467",
+      "title": "CSE 442/542: Software Engineering CSE 462/562: Database Syste",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/news-and-events/events/cse-demo-days.html"
+    },
+    {
+      "code": "CSE 601",
+      "number": "601",
+      "title": "CSE 442/542: Software Engineering CSE 462/562: Database Syste",
+      "prereqs": [
+        "CSE 534"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/news-and-events/events/cse-demo-days.html"
+    },
+    {
+      "code": "CSE 622",
+      "number": "622",
+      "title": "CSE 442/542: Software Engineering CSE 462/562: Database Syste",
+      "prereqs": [
+        "CSE 545"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/news-and-events/events/cse-demo-days.html"
+    },
+    {
+      "code": "CSE 749",
+      "number": "749",
+      "title": "CSE 442/542: Software Engineering CSE 462/562: Database Syste",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/news-and-events/events/cse-demo-days.html"
+    },
+    {
+      "code": "CSE 321",
+      "number": "321",
+      "title": "Time and Embedded Operating Systems (Fall 2025, Fall 2024) CS",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/mohammed-mostafa.detail.teaching.html"
+    },
+    {
+      "code": "CSE 750",
+      "number": "750",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/ye-qianchuan.detail.teaching.html"
+    },
+    {
+      "code": "CSE 446",
+      "number": "446",
+      "title": "CSE 446/546 (Senior/Graduate)",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/vereshchaka-alina.detail.teaching.html"
+    },
+    {
+      "code": "CSE 616",
+      "number": "616",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/vereshchaka-alina.detail.teaching.html"
+    },
+    {
+      "code": "CSE 406",
+      "number": "406",
+      "title": "Time and Embedded Operating Systems (Fall 2023) CSE 406—Block",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/ramamurthy-bina.detail.teaching.html"
+    },
+    {
+      "code": "CSE 426",
+      "number": "426",
+      "title": "Time and Embedded Operating Systems (Fall 2023) CSE 406—Block",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/ramamurthy-bina.detail.teaching.html"
+    },
+    {
+      "code": "CSE 526",
+      "number": "526",
+      "title": "Time and Embedded Operating Systems (Fall 2023) CSE 406—Block",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/ramamurthy-bina.detail.teaching.html"
+    },
+    {
+      "code": "CSE 799",
+      "number": "799",
+      "title": "Super-",
+      "prereqs": [],
+      "credits": 5,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 600",
+      "number": "600",
+      "title": "",
+      "prereqs": [],
+      "credits": 3,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 563",
+      "number": "563",
+      "title": "CSE 563 Knowledge Representation and Reasoning",
+      "prereqs": [
+        "CSE 605"
+      ],
+      "credits": 2,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 567",
+      "number": "567",
+      "title": "CSE 567 Computational Linguistics",
+      "prereqs": [
+        "CSE 587"
+      ],
+      "credits": 2,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 552",
+      "number": "552",
+      "title": "CSE 552 VLSI (Very Large Scale Integration) Testing",
+      "prereqs": [],
+      "credits": 9,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 545",
+      "number": "545",
+      "title": "CSE 545 Error Correcting Codes",
+      "prereqs": [
+        "CSE 556"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 564",
+      "number": "564",
+      "title": "CSE 564 Game Theory and Distributed Computing",
+      "prereqs": [
+        "CSE 556"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 632",
+      "number": "632",
+      "title": "CSE 632 Analysis of Algorithms II",
+      "prereqs": [
+        "CSE 556"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 680",
+      "number": "680",
+      "title": "CSE 680 Computational Geometry",
+      "prereqs": [
+        "CSE 556"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 681",
+      "number": "681",
+      "title": "CSE 681 Formal Languages I",
+      "prereqs": [
+        "CSE 556"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 694",
+      "number": "694",
+      "title": "CSE 694 Topics in Algorithms",
+      "prereqs": [
+        "CSE 556"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 696",
+      "number": "696",
+      "title": "CSE 696 Computational Complexity",
+      "prereqs": [
+        "CSE 556"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 556",
+      "number": "556",
+      "title": "CSE 556 Introduction to Visualization",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 626",
+      "number": "626",
+      "title": "CSE 626 Data Mining",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 661",
+      "number": "661",
+      "title": "CSE 661 Document Analysis and Recognition",
+      "prereqs": [
+        "CSE 601"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 663",
+      "number": "663",
+      "title": "CSE 663 Advanced Knowledge Representation and Reasoning",
+      "prereqs": [
+        "CSE 605"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 667",
+      "number": "667",
+      "title": "CSE 667 Advanced Topics in Computational Linguistics",
+      "prereqs": [
+        "CSE 601"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 672",
+      "number": "672",
+      "title": "CSE 672 Bayesian Vision",
+      "prereqs": [
+        "CSE 587"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 675",
+      "number": "675",
+      "title": "CSE 675 Stochastic Simulation and Inference",
+      "prereqs": [
+        "CSE 587"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 678",
+      "number": "678",
+      "title": "CSE 678 Face and Gesture Recognition",
+      "prereqs": [
+        "CSE 587"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 603",
+      "number": "603",
+      "title": "CSE 603 Parallel and Distributed Processing",
+      "prereqs": [
+        "CSE 524"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 636",
+      "number": "636",
+      "title": "CSE 636 Data Integration",
+      "prereqs": [
+        "CSE 524"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 524",
+      "number": "524",
+      "title": "CSE 524 Realtime and Embedded Systems",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 534",
+      "number": "534",
+      "title": "CSE 534 Introduction to Multimedia Systems",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 620",
+      "number": "620",
+      "title": "CSE 620 Advanced Networking Concepts",
+      "prereqs": [
+        "CSE 566"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 630",
+      "number": "630",
+      "title": "CSE 630 Advanced Wireless Networking Concepts",
+      "prereqs": [
+        "CSE 566"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 691",
+      "number": "691",
+      "title": "CSE 691 Advanced VLSI Design",
+      "prereqs": [
+        "CSE 566"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 507",
+      "number": "507",
+      "title": "Majors)",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 699",
+      "number": "699",
+      "title": "Supervised Teaching",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 519",
+      "number": "519",
+      "title": "Oriented Techniques",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 522",
+      "number": "522",
+      "title": "CSE 522 Object Oriented Analysis, Design, and Implementation",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 523",
+      "number": "523",
+      "title": "Quality Software Design",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 525",
+      "number": "525",
+      "title": "Software Testing",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 539",
+      "number": "539",
+      "title": "Software Engineering Tools and Building Blocks",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 553",
+      "number": "553",
+      "title": "Software Development Project Management",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 400",
+      "number": "400",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 800",
+      "number": "800",
+      "title": "",
+      "prereqs": [],
+      "credits": 0,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2016.pdf"
+    },
+    {
+      "code": "CSE 4555",
+      "number": "4555",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/courses/graduate-course-syllabi/CSE555-Bhattacharjee.pdf"
+    },
+    {
+      "code": "CSE 2004",
+      "number": "2004",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://cse.buffalo.edu/tech-reports/2004-14.pdf"
+    },
+    {
+      "code": "CSE 478",
+      "number": "478",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/people/cv/Imran-Asif-CV.pdf"
+    },
+    {
+      "code": "CSE 481",
+      "number": "481",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/people/cv/Imran-Asif-CV.pdf"
+    },
+    {
+      "code": "CSE 528",
+      "number": "528",
+      "title": "CSE 528 Introduction to Digital Image Processing",
+      "prereqs": [],
+      "credits": 2,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2024.pdf"
+    },
+    {
+      "code": "CSE 640",
+      "number": "640",
+      "title": "CSE 640: Graph Mining and Management",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2024.pdf"
+    },
+    {
+      "code": "CSE 549",
+      "number": "549",
+      "title": "CSE 549: Software Veriﬁcation",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2024.pdf"
+    },
+    {
+      "code": "CSE 113",
+      "number": "113",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/engineering-education/Faculty-CVs/Decker_CV_July2024.pdf"
+    },
+    {
+      "code": "CSE 114",
+      "number": "114",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/engineering-education/Faculty-CVs/Decker_CV_July2024.pdf"
+    },
+    {
+      "code": "CSE 495",
+      "number": "495",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/info-for/info-for-students/instruction/cse-student-teaching-assistant-handbook-v20250304.pdf"
+    },
+    {
+      "code": "CSE 722",
+      "number": "722",
+      "title": "Selected Topics in Data Mining, Spring 2012, Spring 2013, Spr",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/people/cv/Gao-cv.pdf"
+    },
+    {
+      "code": "CSE 470",
+      "number": "470",
+      "title": "Introduction to",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/people/cv/Zola-Jaroslaw.pdf"
+    },
+    {
+      "code": "CSE 655",
+      "number": "655",
+      "title": "",
+      "prereqs": [
+        "CSE 566"
+      ],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2007.pdf"
+    },
+    {
+      "code": "CSE 202",
+      "number": "202",
+      "title": "F1999,F2000",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://www.cse.buffalo.edu/~shapiro/resume.pdf"
+    },
+    {
+      "code": "CSE 716",
+      "number": "716",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://www.cse.buffalo.edu/~shapiro/resume.pdf"
+    },
+    {
+      "code": "CSE 718",
+      "number": "718",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://www.cse.buffalo.edu/~shapiro/resume.pdf"
+    },
+    {
+      "code": "CSE 725",
+      "number": "725",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://www.cse.buffalo.edu/~shapiro/resume.pdf"
+    },
+    {
+      "code": "CSE 736",
+      "number": "736",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://www.cse.buffalo.edu/~shapiro/resume.pdf"
+    },
+    {
+      "code": "CSE 714",
+      "number": "714",
+      "title": "Advances in Multimedia Communications and Networking —",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/people/cv/Wen-Chen-Chang.pdf"
+    },
+    {
+      "code": "CSE 634",
+      "number": "634",
+      "title": "",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://engineering.buffalo.edu/content/dam/engineering/computer-science-engineering/people/cv/Wen-Chen-Chang.pdf"
+    },
+    {
+      "code": "CSE 479",
+      "number": "479",
+      "title": "Advanced Topics in Embedded Systems",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://cse.buffalo.edu/tech-reports/2024-25.pdf"
+    },
+    {
+      "code": "CSE 452",
+      "number": "452",
+      "title": "VLSI Testing (new): offered first time in spring 1992, utiliz",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://cse.buffalo.edu/~shambhu/documents/pdf/resum.pdf"
+    },
+    {
+      "code": "CSE 561",
+      "number": "561",
+      "title": "Performance Analysis of Computer Systems (revised and restruc",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://cse.buffalo.edu/~shambhu/documents/pdf/resum.pdf"
+    },
+    {
+      "code": "CSE 735",
+      "number": "735",
+      "title": "Wireless Networks Security in spring 2011.",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://cse.buffalo.edu/~shambhu/documents/pdf/resum.pdf"
+    },
+    {
+      "code": "CSE 727",
+      "number": "727",
+      "title": "Wireless Networks Security—Principles and Practices in spring",
+      "prereqs": [],
+      "credits": null,
+      "source": "https://cse.buffalo.edu/~shambhu/documents/pdf/resum.pdf"
+    }
+  ],
+  "faculty": [
+    {
+      "name": "Vereshchaka Alina",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/vereshchaka-alina.detail.html",
+      "research_areas": [
+        "machine learning",
+        "artificial intelligence",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 368",
+        "CSE 446",
+        "CSE 574",
+        "CSE 474",
+        "CSE 546",
+        "CSE 676",
+        "CSE 616",
+        "CSE 705"
+      ],
+      "email": "avereshc@buffalo.edu"
+    },
+    {
+      "name": "Xu Wenyao",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/xu-wenyao.detail.students.html",
+      "research_areas": [
+        "edge computing",
+        "robotics",
+        "networking",
+        "cryptography",
+        "artificial intelligence",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 341",
+        "CSE 709",
+        "CSE 702",
+        "CSE 490",
+        "CSE 590",
+        "CSE 410",
+        "CSE 715",
+        "CSE 712"
+      ],
+      "email": "wenyaoxu@buffalo.edu"
+    },
+    {
+      "name": "Upadhyaya Shambhu",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/upadhyaya-shambhu.detail.research.html",
+      "research_areas": [
+        "theory",
+        "cybersecurity",
+        "cryptography",
+        "artificial intelligence",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 707",
+        "CSE 713"
+      ],
+      "email": "shambhu@buffalo.edu"
+    },
+    {
+      "name": "Hu Hongxin",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hu-hongxin.detail.research.html",
+      "research_areas": [
+        "edge computing",
+        "robotics",
+        "cybersecurity",
+        "networking",
+        "cryptography",
+        "machine learning",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 465",
+        "CSE 589",
+        "CSE 702",
+        "CSE 610",
+        "CSE 410",
+        "CSE 489",
+        "CSE 510",
+        "CSE 565",
+        "CSE 704"
+      ],
+      "email": "hongxinh@buffalo.edu"
+    },
+    {
+      "name": "Ziarek Lukasz Luke",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/ziarek-lukasz-luke.detail.html",
+      "research_areas": [
+        "software engineering",
+        "systems",
+        "mobile computing",
+        "programming languages"
+      ],
+      "courses_taught": [
+        "CSE 305",
+        "CSE 605",
+        "CSE 250",
+        "CSE 711"
+      ],
+      "email": "lziarek@buffalo.edu"
+    },
+    {
+      "name": "Srihari Rohini",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/srihari-rohini.detail.students.html",
+      "research_areas": [
+        "information integrity",
+        "data science",
+        "natural language processing",
+        "databases",
+        "algorithms",
+        "machine learning",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 635",
+        "CSE 535",
+        "CSE 701",
+        "CSE 713",
+        "CSE 435",
+        "CSE 704"
+      ],
+      "email": "rohini@buffalo.edu"
+    },
+    {
+      "name": "Rapaport William",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/emeriti.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/emeriti/rapaport-william.detail.html",
+      "research_areas": [
+        "artificial intelligence"
+      ],
+      "courses_taught": [],
+      "email": "rapaport@buffalo.edu"
+    },
+    {
+      "name": "Das Sreyasee Bhattacharjee",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/das-sreyasee-bhattacharjee.detail.latest-news.html",
+      "research_areas": [
+        "machine learning",
+        "computer vision",
+        "artificial intelligence",
+        "algorithms"
+      ],
+      "courses_taught": [
+        "CSE 368",
+        "CSE 573",
+        "CSE 555",
+        "CSE 473",
+        "CSE 560",
+        "CSE 455",
+        "CSE 574",
+        "CSE 474",
+        "CSE 674",
+        "CSE 410",
+        "CSE 510",
+        "CSE 460"
+      ],
+      "email": "sreyasee@buffalo.edu"
+    },
+    {
+      "name": "Doermann David",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/doermann-david.detail.html",
+      "research_areas": [
+        "theory",
+        "natural language processing",
+        "databases",
+        "algorithms",
+        "machine learning",
+        "computer vision",
+        "artificial intelligence",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 573",
+        "CSE 473",
+        "CSE 702",
+        "CSE 199",
+        "CSE 610",
+        "CSE 115"
+      ],
+      "email": "doermann@buffalo.edu"
+    },
+    {
+      "name": "Koutsonikolas Dimitrios",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/affiliated.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/affiliated/koutsonikolas-dimitrios.detail.html",
+      "research_areas": [
+        "networking",
+        "mobile computing"
+      ],
+      "courses_taught": [],
+      "email": ""
+    },
+    {
+      "name": "Hertz Matthew",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/news-and-events/events/ub-hacking.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/hertz-matthew.detail.html",
+      "research_areas": [
+        "high performance computing",
+        "natural language processing",
+        "software engineering",
+        "databases",
+        "algorithms",
+        "programming languages",
+        "systems",
+        "bioinformatics"
+      ],
+      "courses_taught": [
+        "CSE 404",
+        "CSE 303",
+        "CSE 402",
+        "CSE 442",
+        "CSE 302",
+        "CSE 542",
+        "CSE 115"
+      ],
+      "email": "mhertz@buffalo.edu"
+    },
+    {
+      "name": "Imran Asif",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/imran-asif.detail.html",
+      "research_areas": [
+        "machine learning",
+        "artificial intelligence",
+        "systems",
+        "software engineering"
+      ],
+      "courses_taught": [
+        "CSE 368",
+        "CSE 421",
+        "CSE 574",
+        "CSE 411",
+        "CSE 474",
+        "CSE 521"
+      ],
+      "email": "asifimra@buffalo.edu"
+    },
+    {
+      "name": "Nwogu Ifeoma",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/nwogu-ifeoma.detail.research.html",
+      "research_areas": [
+        "algorithms",
+        "machine learning",
+        "computer vision",
+        "artificial intelligence",
+        "bioinformatics"
+      ],
+      "courses_taught": [
+        "CSE 501",
+        "CSE 573",
+        "CSE 555",
+        "CSE 706",
+        "CSE 473",
+        "CSE 199",
+        "CSE 455",
+        "CSE 610"
+      ],
+      "email": "inwogu@buffalo.edu"
+    },
+    {
+      "name": "Yuan Junsong",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/yuan-junsong.detail.teaching.html",
+      "research_areas": [
+        "high performance computing",
+        "theory",
+        "data science",
+        "natural language processing",
+        "robotics",
+        "databases",
+        "algorithms",
+        "machine learning",
+        "computer vision",
+        "artificial intelligence",
+        "systems",
+        "bioinformatics"
+      ],
+      "courses_taught": [
+        "CSE 573",
+        "CSE 710",
+        "CSE 473",
+        "CSE 610",
+        "CSE 703"
+      ],
+      "email": "jsyuan@buffalo.edu"
+    },
+    {
+      "name": "Kennedy Oliver",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/graduate/academic-advisement.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/kennedy-oliver.html",
+      "research_areas": [
+        "theory",
+        "high performance computing",
+        "data science",
+        "natural language processing",
+        "robotics",
+        "databases",
+        "algorithms",
+        "programming languages",
+        "machine learning",
+        "computer vision",
+        "artificial intelligence",
+        "systems",
+        "bioinformatics"
+      ],
+      "courses_taught": [],
+      "email": "okennedy@buffalo.edu"
+    },
+    {
+      "name": "Lu Haonan",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/lu-haonan.detail.teaching.html",
+      "research_areas": [
+        "data science",
+        "databases",
+        "networking",
+        "algorithms",
+        "machine learning",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 706",
+        "CSE 610",
+        "CSE 486",
+        "CSE 586"
+      ],
+      "email": "haonanlu@buffalo.edu"
+    },
+    {
+      "name": "Kosar Tevfik",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/kosar-tevfik.detail.students.html",
+      "research_areas": [
+        "networking",
+        "artificial intelligence",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 421",
+        "CSE 521",
+        "CSE 709"
+      ],
+      "email": "tkosar@buffalo.edu"
+    },
+    {
+      "name": "Hayes Tom",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hayes-tom.detail.teaching.html",
+      "research_areas": [
+        "theory",
+        "data science",
+        "databases",
+        "algorithms",
+        "cryptography",
+        "machine learning",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 191",
+        "CSE 431",
+        "CSE 531",
+        "CSE 701",
+        "CSE 331",
+        "CSE 429"
+      ],
+      "email": "thayes2@buffalo.edu"
+    },
+    {
+      "name": "Mohammed Mostafa",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/mohammed-mostafa.detail.html",
+      "research_areas": [
+        "theory",
+        "systems",
+        "programming languages"
+      ],
+      "courses_taught": [
+        "CSE 321",
+        "CSE 421",
+        "CSE 396",
+        "CSE 502",
+        "CSE 305",
+        "CSE 250",
+        "CSE 521"
+      ],
+      "email": "mkomohmd@buffalo.edu"
+    },
+    {
+      "name": "Cai Haipeng",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/cai-haipeng.detail.html",
+      "research_areas": [
+        "machine learning",
+        "systems",
+        "software engineering"
+      ],
+      "courses_taught": [],
+      "email": "haipengc@buffalo.edu"
+    },
+    {
+      "name": "Ramamurthy Bina",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/ramamurthy-bina.detail.research.html",
+      "research_areas": [
+        "systems",
+        "data science"
+      ],
+      "courses_taught": [
+        "CSE 426",
+        "CSE 586",
+        "CSE 321",
+        "CSE 486",
+        "CSE 526",
+        "CSE 410",
+        "CSE 510",
+        "CSE 406"
+      ],
+      "email": "bina@buffalo.edu"
+    },
+    {
+      "name": "Sridhar Ramalingam",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/sridhar-ramalingam.detail.html",
+      "research_areas": [
+        "edge computing",
+        "robotics",
+        "cryptography",
+        "mobile computing",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 490",
+        "CSE 493",
+        "CSE 590",
+        "CSE 610",
+        "CSE 593",
+        "CSE 611",
+        "CSE 705"
+      ],
+      "email": "rsridhar@buffalo.edu"
+    },
+    {
+      "name": "Ji Kaiyi",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/ji-kaiyi.detail.html",
+      "research_areas": [
+        "machine learning",
+        "algorithms",
+        "theory",
+        "artificial intelligence"
+      ],
+      "courses_taught": [
+        "CSE 610",
+        "CSE 701",
+        "CSE 510",
+        "CSE 676",
+        "CSE 712",
+        "CSE 705"
+      ],
+      "email": "kaiyiji@buffalo.edu"
+    },
+    {
+      "name": "Shapiro Stuart C",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/emeriti.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/emeriti/shapiro-stuart-c.detail.html",
+      "research_areas": [
+        "artificial intelligence",
+        "robotics"
+      ],
+      "courses_taught": [],
+      "email": "shapiro@buffalo.edu"
+    },
+    {
+      "name": "Li Shi",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/affiliated.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/affiliated/li-shi.detail.html",
+      "research_areas": [
+        "algorithms"
+      ],
+      "courses_taught": [],
+      "email": "shil@buffalo.edu"
+    },
+    {
+      "name": "Chandola Varun",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/chandola-varun.detail.html",
+      "research_areas": [
+        "theory",
+        "high performance computing",
+        "data science",
+        "natural language processing",
+        "robotics",
+        "databases",
+        "algorithms",
+        "machine learning",
+        "computer vision",
+        "artificial intelligence",
+        "systems",
+        "bioinformatics"
+      ],
+      "courses_taught": [
+        "CSE 676",
+        "CSE 111"
+      ],
+      "email": "chandola@buffalo.edu"
+    },
+    {
+      "name": "Guo Xiangyu",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/guo-xiangyu.detail.research.html",
+      "research_areas": [
+        "machine learning",
+        "artificial intelligence",
+        "algorithms",
+        "theory"
+      ],
+      "courses_taught": [
+        "CSE 396",
+        "CSE 565",
+        "CSE 465"
+      ],
+      "email": "xiangyug@buffalo.edu"
+    },
+    {
+      "name": "Dickson Paul",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/dickson-paul.detail.teaching.html",
+      "research_areas": [],
+      "courses_taught": [
+        "CSE 116",
+        "CSE 420",
+        "CSE 410",
+        "CSE 115"
+      ],
+      "email": "pauldick@buffalo.edu"
+    },
+    {
+      "name": "Carlson Charlie",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/carlson-charlie.detail.teaching.html",
+      "research_areas": [
+        "theory",
+        "algorithms",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 331"
+      ],
+      "email": "cc387@buffalo.edu"
+    },
+    {
+      "name": "Lyu Siwei",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/lyu-siwei.detail.teaching.html",
+      "research_areas": [
+        "information integrity",
+        "data science",
+        "machine learning",
+        "computer vision",
+        "artificial intelligence"
+      ],
+      "courses_taught": [
+        "CSE 610"
+      ],
+      "email": "siweilyu@buffalo.edu"
+    },
+    {
+      "name": "Chen Changyou",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/chen-changyou.detail.research.html",
+      "research_areas": [
+        "machine learning"
+      ],
+      "courses_taught": [
+        "CSE 706",
+        "CSE 574",
+        "CSE 701",
+        "CSE 474",
+        "CSE 674",
+        "CSE 410",
+        "CSE 676"
+      ],
+      "email": "changyou@buffalo.edu"
+    },
+    {
+      "name": "Jayaraman Bharat",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/emeriti.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/emeriti/jayaraman-bharat.detail.html",
+      "research_areas": [],
+      "courses_taught": [],
+      "email": "bharat@buffalo.edu"
+    },
+    {
+      "name": "Ratha Nalini",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/ratha-nalini.detail.html",
+      "research_areas": [
+        "artificial intelligence",
+        "computer vision"
+      ],
+      "courses_taught": [],
+      "email": "nratha@buffalo.edu"
+    },
+    {
+      "name": "Afolabi Adekunle",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/afolabi-adekunle.detail.html",
+      "research_areas": [
+        "networking",
+        "artificial intelligence",
+        "systems",
+        "software engineering"
+      ],
+      "courses_taught": [],
+      "email": "aafolabi@buffalo.edu"
+    },
+    {
+      "name": "Akhter Nasrin",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/akhter-nasrin.detail.html",
+      "research_areas": [
+        "algorithms",
+        "machine learning",
+        "artificial intelligence",
+        "systems",
+        "bioinformatics"
+      ],
+      "courses_taught": [
+        "CSE 191",
+        "CSE 469",
+        "CSE 199",
+        "CSE 535",
+        "CSE 331",
+        "CSE 435"
+      ],
+      "email": "nasrinak@buffalo.edu"
+    },
+    {
+      "name": "Regan Ken",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/regan-ken.detail.research.html",
+      "research_areas": [
+        "theory",
+        "algorithms",
+        "programming languages"
+      ],
+      "courses_taught": [
+        "CSE 702",
+        "CSE 199",
+        "CSE 396",
+        "CSE 610",
+        "CSE 491",
+        "CSE 707",
+        "CSE 439",
+        "CSE 250",
+        "CSE 305",
+        "CSE 510",
+        "CSE 596"
+      ],
+      "email": "regan@buffalo.edu"
+    },
+    {
+      "name": "Scott Peter",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/emeriti.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/emeriti/scott-peter.detail.html",
+      "research_areas": [
+        "computer vision"
+      ],
+      "courses_taught": [],
+      "email": "peter@buffalo.edu"
+    },
+    {
+      "name": "Hirsch Andrew",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hirsch-andrew.detail.research.html",
+      "research_areas": [
+        "theory",
+        "software engineering",
+        "cryptography",
+        "programming languages",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 513",
+        "CSE 505",
+        "CSE 413",
+        "CSE 305",
+        "CSE 410",
+        "CSE 510",
+        "CSE 704"
+      ],
+      "email": "akhirsch@buffalo.edu"
+    },
+    {
+      "name": "Xie Yaxiong",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/xie-yaxiong.detail.html",
+      "research_areas": [
+        "artificial intelligence",
+        "mobile computing",
+        "edge computing"
+      ],
+      "courses_taught": [],
+      "email": "yaxiongx@buffalo.edu"
+    },
+    {
+      "name": "Ralston Anthony",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/emeriti.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/emeriti/ralston-anthony.detail.html",
+      "research_areas": [],
+      "courses_taught": [],
+      "email": ""
+    },
+    {
+      "name": "Parvin Shamsad",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/parvin-shamsad.detail.html",
+      "research_areas": [
+        "machine learning"
+      ],
+      "courses_taught": [],
+      "email": "shamsadp@buffalo.edu"
+    },
+    {
+      "name": "Del Vecchio Justin",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/del-vecchio--justin.detail.html",
+      "research_areas": [
+        "systems"
+      ],
+      "courses_taught": [],
+      "email": "jmdv@buffalo.edu"
+    },
+    {
+      "name": "Ye Qianchuan",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/ye-qianchuan.detail.html",
+      "research_areas": [
+        "theory",
+        "software engineering",
+        "cryptography",
+        "programming languages",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 199",
+        "CSE 750",
+        "CSE 305",
+        "CSE 505"
+      ],
+      "email": "qcye@buffalo.edu"
+    },
+    {
+      "name": "Sariyuce A Erdem",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/sariyuce-a-erdem.detail.html",
+      "research_areas": [],
+      "courses_taught": [],
+      "email": "erdem@buffalo.edu"
+    },
+    {
+      "name": "Boxer Laurence",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/emeriti.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/emeriti/boxer-laurence.detail.html",
+      "research_areas": [],
+      "courses_taught": [],
+      "email": ""
+    },
+    {
+      "name": "Zhao Zhuoyue",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/zhao-zhuoyue.detail.latest-news.html",
+      "research_areas": [
+        "data science",
+        "databases",
+        "algorithms",
+        "cryptography",
+        "machine learning",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 462",
+        "CSE 562",
+        "CSE 662",
+        "CSE 199",
+        "CSE 303",
+        "CSE 402",
+        "CSE 707",
+        "CSE 350",
+        "CSE 302"
+      ],
+      "email": "zzhao35@buffalo.edu"
+    },
+    {
+      "name": "Schindler Kris",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/schindler-kris.detail.teaching.html",
+      "research_areas": [
+        "networking",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 453",
+        "CSE 341",
+        "CSE 241",
+        "CSE 450",
+        "CSE 111",
+        "CSE 410",
+        "CSE 510",
+        "CSE 379"
+      ],
+      "email": "kds@buffalo.edu"
+    },
+    {
+      "name": "Mikida Eric",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/mikida-eric.detail.html",
+      "research_areas": [
+        "systems",
+        "programming languages"
+      ],
+      "courses_taught": [
+        "CSE 191",
+        "CSE 503",
+        "CSE 220",
+        "CSE 305",
+        "CSE 250",
+        "CSE 487",
+        "CSE 587",
+        "CSE 115"
+      ],
+      "email": "epmikida@buffalo.edu"
+    },
+    {
+      "name": "Maroof Naeem",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/maroof-naeem.detail.html",
+      "research_areas": [
+        "systems"
+      ],
+      "courses_taught": [],
+      "email": "naeemmar@buffalo.edu"
+    },
+    {
+      "name": "Blanton Marina",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/professional-and-student-organizations/ub-divtech.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/blanton-marina.detail.html",
+      "research_areas": [
+        "theory",
+        "robotics",
+        "cryptography",
+        "machine learning",
+        "computer vision",
+        "artificial intelligence",
+        "systems",
+        "bioinformatics"
+      ],
+      "courses_taught": [],
+      "email": "mblanton@buffalo.edu"
+    },
+    {
+      "name": "Chomicki Jan",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/emeriti.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/emeriti/chomicki-jan.detail.html",
+      "research_areas": [
+        "databases"
+      ],
+      "courses_taught": [],
+      "email": "chomicki@buffalo.edu"
+    },
+    {
+      "name": "Blanton Ethan",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/blanton-ethan.detail.html",
+      "research_areas": [
+        "networking",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 586",
+        "CSE 486",
+        "CSE 410",
+        "CSE 510",
+        "CSE 220"
+      ],
+      "email": "eblanton@buffalo.edu"
+    },
+    {
+      "name": "Hunt Alan",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/hunt-alan.detail.research.html",
+      "research_areas": [
+        "software engineering",
+        "human computer interaction",
+        "systems",
+        "programming languages"
+      ],
+      "courses_taught": [
+        "CSE 404",
+        "CSE 199",
+        "CSE 303",
+        "CSE 402",
+        "CSE 370",
+        "CSE 302",
+        "CSE 611",
+        "CSE 365"
+      ],
+      "email": "ahunt@buffalo.edu"
+    },
+    {
+      "name": "Lu Xi",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/lu-xi.detail.research.html",
+      "research_areas": [
+        "systems"
+      ],
+      "courses_taught": [],
+      "email": "xlu30@buffalo.edu"
+    },
+    {
+      "name": "Hartloff Jesse",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/hartloff-jesse.detail.research.html",
+      "research_areas": [
+        "theory",
+        "software engineering",
+        "algorithms",
+        "programming languages",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 116",
+        "CSE 312",
+        "CSE 220",
+        "CSE 442"
+      ],
+      "email": "hartloff@buffalo.edu"
+    },
+    {
+      "name": "Qiao Chunming",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/qiao-chunming.detail.html",
+      "research_areas": [
+        "systems",
+        "algorithms"
+      ],
+      "courses_taught": [],
+      "email": "qiao@buffalo.edu"
+    },
+    {
+      "name": "Goldstein Harrison",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/goldstein-harrison.detail.research.html",
+      "research_areas": [
+        "programming languages",
+        "systems",
+        "software engineering"
+      ],
+      "courses_taught": [],
+      "email": "hgoldste@buffalo.edu"
+    },
+    {
+      "name": "Fischer Daniel",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/emeriti.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/emeriti/fischer-daniel.detail.html",
+      "research_areas": [
+        "bioinformatics"
+      ],
+      "courses_taught": [],
+      "email": "df33@buffalo.edu"
+    },
+    {
+      "name": "Hoadley Christopher",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/hoadley-christopher.detail.html",
+      "research_areas": [],
+      "courses_taught": [],
+      "email": "tophe@buffalo.edu"
+    },
+    {
+      "name": "Tripathi Satish",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/tripathi-satish.detail.html",
+      "research_areas": [
+        "networking",
+        "systems"
+      ],
+      "courses_taught": [],
+      "email": "president@buffalo.edu"
+    },
+    {
+      "name": "Kershner Helene",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/emeriti.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/emeriti/kershner-helene.detail.html",
+      "research_areas": [
+        "software engineering"
+      ],
+      "courses_taught": [],
+      "email": ""
+    },
+    {
+      "name": "He Xin Roger",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/emeriti.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/emeriti/he-xin-roger.detail.html",
+      "research_areas": [
+        "theory",
+        "high performance computing",
+        "natural language processing",
+        "databases",
+        "algorithms",
+        "systems",
+        "bioinformatics"
+      ],
+      "courses_taught": [],
+      "email": "xinhe@buffalo.edu"
+    },
+    {
+      "name": "Bosse Yorah",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/bosse-yorah.detail.teaching.html",
+      "research_areas": [
+        "algorithms"
+      ],
+      "courses_taught": [
+        "CSE 331",
+        "CSE 250",
+        "CSE 503",
+        "CSE 115"
+      ],
+      "email": "yorah@buffalo.edu"
+    },
+    {
+      "name": "Proctor Chris",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/affiliated.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/affiliated/proctor-chris.detail.html",
+      "research_areas": [],
+      "courses_taught": [],
+      "email": "chrisp@buffalo.edu"
+    },
+    {
+      "name": "Wang Weihang",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/affiliated.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/affiliated/wang-weihang.detail.html",
+      "research_areas": [],
+      "courses_taught": [],
+      "email": ""
+    },
+    {
+      "name": "Chen Chang Wen",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/emeriti.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/emeriti/chen-chang-wen.detail.html",
+      "research_areas": [
+        "systems"
+      ],
+      "courses_taught": [],
+      "email": "chencw@buffalo.edu"
+    },
+    {
+      "name": "Alphonce Carl",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/alphonce-carl.detail.teaching.html",
+      "research_areas": [
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 503",
+        "CSE 220",
+        "CSE 443",
+        "CSE 306",
+        "CSE 115"
+      ],
+      "email": "alphonce@buffalo.edu"
+    },
+    {
+      "name": "Luo Kelin",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/luo-kelin.detail.research.html",
+      "research_areas": [
+        "theory",
+        "algorithms"
+      ],
+      "courses_taught": [],
+      "email": "kelinluo@buffalo.edu"
+    },
+    {
+      "name": "Govindaraju Venu",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/govindaraju-venu.detail.html",
+      "research_areas": [],
+      "courses_taught": [],
+      "email": "govind@buffalo.edu"
+    },
+    {
+      "name": "Dantu Karthik",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/dantu-karthik.detail.research.html",
+      "research_areas": [
+        "edge computing",
+        "robotics",
+        "networking",
+        "algorithms",
+        "mobile computing",
+        "artificial intelligence",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 702",
+        "CSE 199",
+        "CSE 610",
+        "CSE 568",
+        "CSE 468"
+      ],
+      "email": "kdantu@buffalo.edu"
+    },
+    {
+      "name": "Zhang Aidong",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/emeriti.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/emeriti/zhang-aidong.detail.html",
+      "research_areas": [
+        "systems",
+        "bioinformatics"
+      ],
+      "courses_taught": [],
+      "email": ""
+    },
+    {
+      "name": "Walters Deborah",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/emeriti.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/emeriti/walters-deborah.detail.html",
+      "research_areas": [],
+      "courses_taught": [],
+      "email": ""
+    },
+    {
+      "name": "Gao Mingchen",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/gao-mingchen.detail.html",
+      "research_areas": [
+        "artificial intelligence",
+        "machine learning",
+        "computer vision",
+        "data science"
+      ],
+      "courses_taught": [],
+      "email": "mgao8@buffalo.edu"
+    },
+    {
+      "name": "Su Lu",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/affiliated.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/affiliated/su-lu.detail.html",
+      "research_areas": [
+        "systems",
+        "mobile computing"
+      ],
+      "courses_taught": [],
+      "email": ""
+    },
+    {
+      "name": "Zola Jaroslaw Jaric",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/zola-jaroslaw-jaric.detail.html",
+      "research_areas": [
+        "high performance computing",
+        "natural language processing",
+        "databases",
+        "algorithms",
+        "systems",
+        "bioinformatics"
+      ],
+      "courses_taught": [],
+      "email": "jzola@buffalo.edu"
+    },
+    {
+      "name": "Ko Steve",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/affiliated.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/affiliated/ko-steve.detail.html",
+      "research_areas": [
+        "systems",
+        "networking"
+      ],
+      "courses_taught": [],
+      "email": "stevko@buffalo.edu"
+    },
+    {
+      "name": "Meng Jingjing",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/affiliated.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/affiliated/meng-jingjing.detail.html",
+      "research_areas": [
+        "computer vision"
+      ],
+      "courses_taught": [],
+      "email": "jmeng2@buffalo.edu"
+    },
+    {
+      "name": "Wang Chen",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/wang-chen.detail.html",
+      "research_areas": [
+        "robotics"
+      ],
+      "courses_taught": [],
+      "email": "cwx@buffalo.edu"
+    },
+    {
+      "name": "Ayyalasomayajula Roshan",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/ayyalasomayajula-roshan.detail.teaching.html",
+      "research_areas": [
+        "edge computing",
+        "robotics",
+        "networking",
+        "mobile computing",
+        "machine learning",
+        "artificial intelligence",
+        "systems"
+      ],
+      "courses_taught": [
+        "CSE 711",
+        "CSE 589",
+        "CSE 646",
+        "CSE 410",
+        "CSE 489",
+        "CSE 510"
+      ],
+      "email": "roshana@buffalo.edu"
+    },
+    {
+      "name": "Knepley Matthew",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/graduate/academic-advisement.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/knepley-matthew.html",
+      "research_areas": [
+        "high performance computing",
+        "theory",
+        "natural language processing",
+        "robotics",
+        "databases",
+        "algorithms",
+        "machine learning",
+        "computer vision",
+        "artificial intelligence",
+        "systems",
+        "bioinformatics"
+      ],
+      "courses_taught": [],
+      "email": "knepley@buffalo.edu"
+    },
+    {
+      "name": "Lokhande Vishnu",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/lokhande-vishnu.detail.teaching.html",
+      "research_areas": [
+        "machine learning",
+        "computer vision",
+        "artificial intelligence",
+        "algorithms"
+      ],
+      "courses_taught": [
+        "CSE 676",
+        "CSE 574",
+        "CSE 710"
+      ],
+      "email": "vishnulo@buffalo.edu"
+    },
+    {
+      "name": "Albahri Bakr",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/teaching/albahri-bakr.detail.html",
+      "research_areas": [
+        "machine learning",
+        "systems"
+      ],
+      "courses_taught": [],
+      "email": "bakeralb@buffalo.edu"
+    },
+    {
+      "name": "Miller Russ",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/miller-russ.detail.html",
+      "research_areas": [
+        "algorithms"
+      ],
+      "courses_taught": [],
+      "email": "miller@buffalo.edu"
+    },
+    {
+      "name": "Gao Jing",
+      "url": "https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/affiliated.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/affiliated/gao-jing.detail.html",
+      "research_areas": [
+        "machine learning"
+      ],
+      "courses_taught": [],
+      "email": ""
+    }
+  ],
+  "labs": [
+    {
+      "name": "The Online Data Interactions (ODIn) Lab UB Data Science Research Group",
+      "research_areas": [
+        "data science"
+      ],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-areas/artificial-intelligence/databases-and-data-science.html"
+    },
+    {
+      "name": "UB Data Science Research Group",
+      "research_areas": [
+        "data science"
+      ],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-areas/artificial-intelligence/databases-and-data-science.html"
+    },
+    {
+      "name": "Associate Director of AI and Society Institute for Artificial Intelligence and Data Science",
+      "research_areas": [
+        "artificial intelligence",
+        "data science"
+      ],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-areas/artificial-intelligence/natural-language-processing.html"
+    },
+    {
+      "name": "Institute for Artificial Intelligence and Data Science",
+      "research_areas": [
+        "artificial intelligence",
+        "data science"
+      ],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-areas/artificial-intelligence/natural-language-processing.html"
+    },
+    {
+      "name": "Center for Analytics Research and Applications (CARA)",
+      "research_areas": [],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-centers-institutes-labs-and-groups/center-for-analytics-research-and-applications.html"
+    },
+    {
+      "name": "School/University Research Groups on Special Topics",
+      "research_areas": [],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-areas/interdisciplinary/society-and-computing.html"
+    },
+    {
+      "name": "Center for Unified Biometrics and Sensors (CUBS)",
+      "research_areas": [],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-areas/artificial-intelligence/artificial-intelligence-and-machine-learning-and-data-mining.html"
+    },
+    {
+      "name": "UB Center for Cognitive Science (CCS)",
+      "research_areas": [],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-areas/artificial-intelligence/artificial-intelligence-and-machine-learning-and-data-mining.html"
+    },
+    {
+      "name": "Founding Director Center for Unified Biometrics and Sensors (CUBS)",
+      "research_areas": [],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-areas/artificial-intelligence/artificial-intelligence-and-machine-learning-and-data-mining.html"
+    },
+    {
+      "name": "Co-Director Center for Information Integrity",
+      "research_areas": [
+        "information integrity"
+      ],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-areas/artificial-intelligence/artificial-intelligence-and-machine-learning-and-data-mining.html"
+    },
+    {
+      "name": "Center for Information Integrity",
+      "research_areas": [
+        "information integrity"
+      ],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-areas/artificial-intelligence/artificial-intelligence-and-machine-learning-and-data-mining.html"
+    },
+    {
+      "name": "Director Institute for Artificial and Data Science",
+      "research_areas": [
+        "data science"
+      ],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-areas/artificial-intelligence/artificial-intelligence-and-machine-learning-and-data-mining.html"
+    },
+    {
+      "name": "Institute for Artificial and Data Science",
+      "research_areas": [
+        "data science"
+      ],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-areas/artificial-intelligence/artificial-intelligence-and-machine-learning-and-data-mining.html"
+    },
+    {
+      "name": "Co-Director Principal Research Scientist Center for Unified Biometrics and Sensors (CUBS)",
+      "research_areas": [],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-areas/artificial-intelligence/information-integrity.html"
+    },
+    {
+      "name": "Associate Director of Community Engagement Institute for Artificial Intelligence and Data Science",
+      "research_areas": [
+        "artificial intelligence",
+        "data science"
+      ],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-areas/artificial-intelligence/information-integrity.html"
+    },
+    {
+      "name": "C. Mohan NAE Member IBM Fellow IBM Almaden Research Center",
+      "research_areas": [],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/news-and-events/events/cse-distinguished-speaker-series.html"
+    },
+    {
+      "name": "NAE Member IBM Fellow IBM Almaden Research Center",
+      "research_areas": [],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/news-and-events/events/cse-distinguished-speaker-series.html"
+    },
+    {
+      "name": "UB AI Institute for Exceptional Education 10/10/24",
+      "research_areas": [],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering.html"
+    },
+    {
+      "name": "UB AI Institute for Exceptional Education",
+      "research_areas": [],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering.html"
+    },
+    {
+      "name": "Research Centers, Labs, and Groups",
+      "research_areas": [],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/about-us/why-choose-cse.host.html/content/shared/engineering/computer-science-engineering/research/research-why-choose-cse/research-centers-labs-and-groups.detail.html"
+    },
+    {
+      "name": "CyberInfrastructure (CI) Laboratory",
+      "research_areas": [],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-areas/systems/high-performance-computing.html"
+    },
+    {
+      "name": "Cyber-Med Laboratory Scalable Computing Research Group (SCoRe)",
+      "research_areas": [],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-areas/interdisciplinary/computational-biology-and-bioinformatics.html"
+    },
+    {
+      "name": "Scalable Computing Research Group (SCoRe)",
+      "research_areas": [],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-areas/interdisciplinary/computational-biology-and-bioinformatics.html"
+    },
+    {
+      "name": "Research Centers, Institutes, Labs and Groups 2/17/26",
+      "research_areas": [],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research.html"
+    },
+    {
+      "name": "Research Centers, Institutes, Labs and Groups",
+      "research_areas": [],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research.html"
+    },
+    {
+      "name": "UB Center for Information Integrity (UBCII)",
+      "research_areas": [
+        "information integrity"
+      ],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/research/research-highlights.html"
+    },
+    {
+      "name": "Research Centers, Labs, and Groups 10/23/23",
+      "research_areas": [],
+      "source": "https://engineering.buffalo.edu/computer-science-engineering/about-us/why-choose-cse.html"
+    }
+  ]
+}
