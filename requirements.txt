@@ -1,0 +1,33 @@
+# ── Web scraping ─────────────────────────────────────────────────────────────
+requests
+beautifulsoup4
+lxml
+PyMuPDF
+
+# ── Ingestion & embeddings ────────────────────────────────────────────────────
+langchain
+langchain-community
+langchain-chroma
+chromadb
+ollama
+
+# ── Knowledge graph ───────────────────────────────────────────────────────────
+networkx
+
+# ── API backend ───────────────────────────────────────────────────────────────
+fastapi
+uvicorn[standard]
+pydantic
+rank-bm25
+sentence-transformers
+
+# ── Frontend ──────────────────────────────────────────────────────────────────
+streamlit
+
+# ── Evaluation ────────────────────────────────────────────────────────────────
+ragas
+datasets
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dotenv
+tqdm
